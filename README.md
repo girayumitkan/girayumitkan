@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girayumitkan&label=Profile%20views&color=0e75b6&style=flat" alt="girayumitkan" /> </p>
 
-- 🔭 I’m currently working on **Horror game in unity**
+- 🔭 I’m currently working on **Horror game and mobile game in unity**
 
 - 🌱 I’m currently learning **optimization in unity**
 
